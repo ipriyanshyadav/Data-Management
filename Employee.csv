@@ -1,0 +1,12 @@
+﻿ID,NAME,SURNAME,SEX,DESIGNATION,SALARY,DOJ
+GD1,Priyansh,Yadav,Male,Manager,500000,01-02-2013
+GD2,Aditya ,Raj,Male,Assistant Manager,80000,02-02-2014
+GD3,Tanisha,Bhati,Female,Receptionist,16000,07-02-2018
+GD4,Surbhi,Mahal,Female,Receptionist,12000,09-02-2020
+GD5,Vedant,Nathawat,Male,Reservation Agent,18000,08-07-2017
+GD6,Ashmit,Rawat,Male,General Manager,40000,09-03-2016
+GD7,Sushmita,Bisht,Female,Night Duty Manager,40000,09-05-2024
+GD8,Ayush,Rawat,Male,IT Manager,78000,09-06-2020
+GD9,Ayush,Arora,Male,Sales Manager,50000,05-08-2022
+GD10,Kunika,Yadav,Female,Security Manager,49700,07-03-2023
+GD11,Divya,Yadav,Female,Human Resource Manager,34500,07-06-2018
