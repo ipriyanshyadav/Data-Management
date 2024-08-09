@@ -96,11 +96,11 @@ def Delete_record():
 
 def Show_the_name_of_male_employees():
      a= pd.read_csv('Employee.csv')
-     print(a[a['SEX']=='MALE']['NAME'])
+     print(a[a['SEX']=='Male']['NAME'])
 
 def Show_the_name_of_female_employees():
      a= pd.read_csv('Employee.csv')
-     print(a[a['SEX']=='FEMALE']['NAME'])
+     print(a[a['SEX']=='Female']['NAME'])
 
 def Show_salary_chart_using_line_graph():
      a= pd.read_csv('Employee.csv')
